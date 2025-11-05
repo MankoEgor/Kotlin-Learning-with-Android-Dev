@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color app_background
+color black
+color button_color
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color text_background
+color white
+drawable girl
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable mona_liza
+drawable sunrise
+drawable van_gog
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string fifth_art_artist
+string fifth_art_title
+string first_art_artist
+string first_art_title
+string fourth_art_artist
+string fourth_art_title
+string next
+string previous
+string second_art_artist
+string second_art_title
+string third_art_artist
+string third_art_title
+style Theme.ArtSpaceApp
+xml backup_rules
+xml data_extraction_rules

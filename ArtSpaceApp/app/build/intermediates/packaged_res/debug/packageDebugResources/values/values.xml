@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#B0926A</color>
+    <color name="black">#FF000000</color>
+    <color name="button_color">#2D5128</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="text_background">#8DA750</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Art Space App</string>
+    <string name="fifth_art_artist"/>
+    <string name="fifth_art_title"/>
+    <string name="first_art_artist">LEONARDO DA VINCHI (1506 y)</string>
+    <string name="first_art_title">MONA LIZA</string>
+    <string name="fourth_art_artist">CLAUDE MONET (1870 y)</string>
+    <string name="fourth_art_title">IMPRESSION, SUNRISE</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="second_art_artist">VINCENT NAV GOGH (1900 y)</string>
+    <string name="second_art_title">STARRY NIGHT</string>
+    <string name="third_art_artist">JAN VERMEER (1902 y)</string>
+    <string name="third_art_title">PEARL EARRING GIRL</string>
+    <style name="Theme.ArtSpaceApp" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
